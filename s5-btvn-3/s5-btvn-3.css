@@ -1,0 +1,18 @@
+a {
+    display: inline-block;    
+    text-decoration: none;    
+    background-color: #eeeeee; 
+    color: #444444;            
+    border: 1px solid #dcdcdc; 
+    padding: 12px 28px;
+    font-size: 16px;
+    border-radius: 6px;       
+    text-align: center;
+    cursor: pointer;
+}
+
+a:active {
+    background-color: #e53e3e; 
+    color: #ffffff;            
+    border-color: #e53e3e;     
+}
